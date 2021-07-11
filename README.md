@@ -15,7 +15,7 @@ Knifes are now all in Slot 1
 #### From workshop
 This is the easiest way to install it and it's recommended for clients.
 
-1. Go to [workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=506283460)
+1. Go to [workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2544334855)
 2. Click green Subscribe button or add it into your server collection.
 
 This will be enabled next time you launch game or server.
@@ -23,7 +23,7 @@ This will be enabled next time you launch game or server.
 #### Manually
 This is recommended for servers' owners and those who want to test it before next release.
 
-- Download and unpack the [latest release](https://github.com/xDShot/csgo_knives_sweps/releases/latest) into `GarrysMod/garrysmod/addons` folder.
+- Download and unpack the [latest release](https://github.com/Musiker15/csgo_knives_sweps/releases/latest) into `GarrysMod/garrysmod/addons` folder.
 
 or
 
