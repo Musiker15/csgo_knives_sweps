@@ -1,6 +1,6 @@
 **Now you can use the knives from Counter-Strike: Global Offensive as weapons in Garry's Mod!**
 
-# Edited 
+## Edited 
 Knifes are now all in Slot 1
 
 ## Features:
