@@ -27,7 +27,7 @@ This is recommended for servers' owners and those who want to test it before nex
 
 or
 
-- Clone this repo `git clone https://github.com/xDShot/csgo_knives_sweps/`
+- Clone this repo `git clone https://github.com/Musiker15/csgo_knives_sweps`
 
 ## Server ConVars:
 Type these in console or in server config:
