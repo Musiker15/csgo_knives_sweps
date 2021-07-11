@@ -1,7 +1,7 @@
 **Now you can use the knives from Counter-Strike: Global Offensive as weapons in Garry's Mod!**
 
 # Edited 
-Knifes in Slot 1 and not in Traitorshop
+Knifes are now all in Slot 1
 
 ## Features:
 - *12 different knives;*
